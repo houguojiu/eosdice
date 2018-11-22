@@ -1,0 +1,1 @@
+global.eosjs = require('eosjs');
